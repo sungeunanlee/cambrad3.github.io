@@ -3,7 +3,11 @@
 
 ### Markdown
 
-<img src="https://www.dropbox.com/s/3sz3rgs1nwkd26m/file1-2.jpeg?raw=1">
+<img src="https://www.dropbox.com/s/7ck7af2mtrn9awr/LDA_correlations.png?raw=1">
+<img src="https://www.dropbox.com/s/wbfkwx7tncpufpy/nonrookieldaplot.png?raw=1">
+<img src="https://www.dropbox.com/s/bkwnih7gihuaikp/seasonedplayersldaplot.png?raw=1">
+<img src="https://www.dropbox.com/s/pqkji8p20l35waz/kmeansplot.png?raw=1">
+<img src="https://www.dropbox.com/s/xgdr3421y2ovesq/gmmplot.png?raw=1">
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
