@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/cambrad3/cambrad3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Project Title: Predicting NBA Career Performance Based on Rookie Season
+## Cameron Bradley,
 
 ### Markdown
+
+<img src="https://www.dropbox.com/s/3sz3rgs1nwkd26m/file1-2.jpeg?raw=1">
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
