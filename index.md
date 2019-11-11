@@ -32,16 +32,16 @@ The main purpose of supervised learning in our project is to predict the career 
 Using LDA to create new features that reduced the dimensions of the rookie and career features into single metrics, and then using these metrics to predict career performance is novel in our approach.
 
 ### Unsupervised
-#### Approach Details
-Created a new variable, **rookie win shares classifier**. This variable had a value of 0 if the player’s rookie win shares were 1 standard deviation below the mean, 1 if the player’s rookie win shares were within a standard deviation of the mean, and 2 if the player’s rookie win shares were 1 standard deviation above the mean.
+#### Creating New Features
+1) Created a new variable, **rookie win shares classifier**. This variable had a value of 0 if the player’s rookie win shares were 1 standard deviation below the mean, 1 if the player’s rookie win shares were within a standard deviation of the mean, and 2 if the player’s rookie win shares were 1 standard deviation above the mean.
 
-For players who were not rookies in 2018, we created a similar metric for **normalized career win shares** (divided by number of years played in the NBA).
+2) For players who were not rookies in 2018, we created a similar metric for **normalized career win shares** (divided by number of years played in the NBA).
 
-Using the rookie win shares classifier as a label, we used **LDA** as a dimension reduction technique to find a **linear combination of the rookie features** that were **predictive of rookie win shares**.
+3) Using the rookie win shares classifier as a label, we used **LDA** as a dimension reduction technique to find a **linear combination of the rookie features** that were **predictive of rookie win shares**.
 
-We also created a **LDA** model for **normalized career win shares**.
+4) We also created a **LDA** model for **normalized career win shares**.
 
-The first component of the rookie LDA model and the first component of the career LDA model were used as a new set of features for clustering analysis. The **first components** were chosen because they are the features **most responsible in their models for maximizing win share class separability**.
+5) The first component of the rookie LDA model and the first component of the career LDA model were used as a new set of features for clustering analysis. The **first components** were chosen because they are the features **most responsible in their models for maximizing win share class separability**.
 
 The following plot shows how the original rookie and career features are correlated with the values of the chosen LDA components.
 
