@@ -81,8 +81,10 @@ The following sections show the results of each clustering method used. We then 
 <img src="https://www.dropbox.com/s/xgdr3421y2ovesq/gmmplot.png?raw=1">
 
 #### DBSCAN
+Sung
 
 #### Hierarchical Based
+Sung
 
 #### Evaluation of Clustering Methods
 Sung
