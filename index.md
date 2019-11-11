@@ -1,14 +1,47 @@
 # Project Title: Predicting NBA Career Performance Based on Rookie Season
 ## Sungeun An, Nazanin Anaraki, Cameron Bradley, Kevin Cho, Kalyan Murahari
 
-### Markdown
+### Introduction
+#### What are we trying to accomplish?
 
+#### Why is it important?
+
+### Data
+#### Where did we get the data?
 <img src="https://www.dropbox.com/s/vm27c41agid1jbu/Data%20Image.PNG?raw=1">
+
+#### What are its characteristics?
+
+### What is Our Approach?
+
+#### Unsupervised
+
+#### Supervised
+
+#### What is new in our approach?
+
+### Unsupervised
+#### Approach Details
 <img src="https://www.dropbox.com/s/7ck7af2mtrn9awr/LDA_correlations.png?raw=1">
 <img src="https://www.dropbox.com/s/wbfkwx7tncpufpy/nonrookieldaplot.png?raw=1">
 <img src="https://www.dropbox.com/s/bkwnih7gihuaikp/seasonedplayersldaplot.png?raw=1">
+
+#### Evaluation of Approach
 <img src="https://www.dropbox.com/s/pqkji8p20l35waz/kmeansplot.png?raw=1">
 <img src="https://www.dropbox.com/s/xgdr3421y2ovesq/gmmplot.png?raw=1">
+
+#### Results and Insights
+
+
+### Supervised
+#### Approach Details
+#### Evaluation of Approach
+#### Results and Insights
+
+### Conclusion
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
