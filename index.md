@@ -54,7 +54,7 @@ With the 2 new components derived from the 2 LDA models, we plotted all NBA play
 
 1) The **x axis** corresponds to the value of the **first component** that was derived from the **LDA model for duration normalized career win shares**.
 
-2) The **y axis** corresponds to the value of the **first component** that was derived from the **LDA model for normalized rookie win shares**.
+2) The **y axis** corresponds to the value of the **first component** that was derived from the **LDA model for rookie win shares**.
 
 3) The colors corresponds to the original **0 (Bad), 1 (Avg), and 2 (Good)** classification values created in the **career (C)** and **rookie (R)** win shares classifier. Combinations of the original 2 classification variable values creates **9 total classes**.
 
