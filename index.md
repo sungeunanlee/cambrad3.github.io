@@ -60,6 +60,9 @@ With the 2 new components derived from the 2 LDA models, we plotted all NBA play
 
 <img src="https://www.dropbox.com/s/wbfkwx7tncpufpy/nonrookieldaplot.png?raw=1">
 
+#### Comparing Rookies to Seasoned Players (from 9 to 6 Classes)
+Rather than comparing 2018 rookie players to other players who have had a few years in the league, it is more interesting to compare rookies to players who have had long careers in the league; there is more information about these players.  In this spirit, we reran the LDA analysis for players with 10+ years in the league. The following plot shows the results of this analysis.
+
 <img src="https://www.dropbox.com/s/bkwnih7gihuaikp/seasonedplayersldaplot.png?raw=1">
 
 #### Evaluation of Approach
