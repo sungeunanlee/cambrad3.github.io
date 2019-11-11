@@ -67,8 +67,11 @@ Rather than compare 2018 rookie players to other players who have had a few year
 
 Only focusing on seasoned players (10+ year NBA careers) **reduces the number of classes represented from 9 to 6**; there are not many seasoned players with low career win shares per year. Those types of players usually don’t make it 10+ years in the league.
 
-
 #### Clustering
+
+Because we know seasoned players represent 6 unique classes, **we chose to use clustering algorithms that resulted in 6 clusters**. In K-means and GMM we explicitly set the number of cluster centers to 6. In hierarchical based clustering we pruned the dendrogram to have 6 clusters. In DBSCAN we adjusted epsilon and min points such that 6 clusters resulted.
+The following sections show the results of each clustering method used. We then provide an evaluation of the 4 clustering methods.
+
 #### Kmeans
 <img src="https://www.dropbox.com/s/pqkji8p20l35waz/kmeansplot.png?raw=1">
 #### GMM
