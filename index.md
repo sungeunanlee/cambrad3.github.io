@@ -65,7 +65,7 @@ Rather than compare 2018 rookie players to other players who have had a few year
 
 <img src="https://www.dropbox.com/s/bkwnih7gihuaikp/seasonedplayersldaplot.png?raw=1">
 
-Only focusing on seasoned players (10+ year NBA careers) **reduces the number of classes represented from 9 to 6**; there are not many seasoned players with low career win shares per year. Those types of players usually don’t make it 10+ years.
+Only focusing on seasoned players (10+ year NBA careers) **reduces the number of classes represented from 9 to 6**; there are not many seasoned players with low career win shares per year. Those types of players usually don’t make it 10+ years in the league.
 
 
 #### Evaluation of Approach
