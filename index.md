@@ -47,18 +47,18 @@ The following plot shows how the original rookie and career features are correla
 
 <img src="https://www.dropbox.com/s/7ck7af2mtrn9awr/LDA_correlations.png?raw=1">
 
-####9 Classes
+#### 9 Classes
 
 With the 2 new components derived from the 2 LDA models, we plotted all NBA players since 1980 who were not rookies in 2018, with their respective labels.
 
-The x axis corresponds to the value of the first component that was derived from the LDA model for duration normalized career win shares.
+1) The **x axis** corresponds to the value of the **first component** that was derived from the **LDA model for duration normalized career win shares**.
 
-The y axis corresponds to the value of the first component that was derived from the LDA model for normalized rookie win shares.
+2) The **y axis** corresponds to the value of the **first component** that was derived from the **LDA model for normalized rookie win shares**.
 
-The colors corresponds to the original 0 (Bad), 1 (Avg), and 2 (Good) classification values created in the career (C) and rookie (R) win shares classifier. Combinations of the original 2 classification variable values creates 9 total classes.
-
+3) The colors corresponds to the original **0 (Bad), 1 (Avg), and 2 (Good)** classification values created in the **career (C)** and **rookie (R)** win shares classifier. Combinations of the original 2 classification variable values creates **9 total classes**.
 
 <img src="https://www.dropbox.com/s/wbfkwx7tncpufpy/nonrookieldaplot.png?raw=1">
+
 <img src="https://www.dropbox.com/s/bkwnih7gihuaikp/seasonedplayersldaplot.png?raw=1">
 
 #### Evaluation of Approach
