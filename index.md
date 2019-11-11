@@ -3,42 +3,55 @@
 
 ### Introduction
 #### What are we trying to accomplish?
+(Cameron)
 
 #### Why is it important?
+(Cameron and Kevin)
 
 ### Data
 #### Where did we get the data?
+(Cameron)
 <img src="https://www.dropbox.com/s/vm27c41agid1jbu/Data%20Image.PNG?raw=1">
 
 #### What are its characteristics?
+(Cameron)
 
 ### What is Our Approach?
-
 #### Unsupervised
+Cameron
 
 #### Supervised
+Nazanin or Kevin or Kalyan
 
 #### What is new in our approach?
+Cameron
 
 ### Unsupervised
 #### Approach Details
+Cameron and Sung
 <img src="https://www.dropbox.com/s/7ck7af2mtrn9awr/LDA_correlations.png?raw=1">
 <img src="https://www.dropbox.com/s/wbfkwx7tncpufpy/nonrookieldaplot.png?raw=1">
 <img src="https://www.dropbox.com/s/bkwnih7gihuaikp/seasonedplayersldaplot.png?raw=1">
 
 #### Evaluation of Approach
+Cameron and Sung
 <img src="https://www.dropbox.com/s/pqkji8p20l35waz/kmeansplot.png?raw=1">
 <img src="https://www.dropbox.com/s/xgdr3421y2ovesq/gmmplot.png?raw=1">
 
 #### Results and Insights
+Cameron and Sung
 
 
 ### Supervised
 #### Approach Details
+Nazanin, Kevin, Kalyan
 #### Evaluation of Approach
+Nazanin, Kevin, Kalyan
 #### Results and Insights
+Nazanin, Kevin, Kalyan
 
 ### Conclusion
+Sung or Nazanin or Kevin or Kalyan
 
 
 
