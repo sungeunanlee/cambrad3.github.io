@@ -68,13 +68,16 @@ Rather than compare 2018 rookie players to other players who have had a few year
 Only focusing on seasoned players (10+ year NBA careers) **reduces the number of classes represented from 9 to 6**; there are not many seasoned players with low career win shares per year. Those types of players usually don’t make it 10+ years in the league.
 
 
-#### Evaluation of Approach
-Cameron and Sung
+#### Clustering
+#### Kmeans
 <img src="https://www.dropbox.com/s/pqkji8p20l35waz/kmeansplot.png?raw=1">
+#### GMM
 <img src="https://www.dropbox.com/s/xgdr3421y2ovesq/gmmplot.png?raw=1">
+#### DBSCAN
+#### Hierarchical Based
 
-#### Results and Insights
-Cameron and Sung
+#### Evaluation of Clustering Methods
+Sung
 
 
 ### Supervised
