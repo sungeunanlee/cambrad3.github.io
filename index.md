@@ -74,9 +74,12 @@ The following sections show the results of each clustering method used. We then 
 
 #### Kmeans
 <img src="https://www.dropbox.com/s/pqkji8p20l35waz/kmeansplot.png?raw=1">
+
 #### GMM
 <img src="https://www.dropbox.com/s/xgdr3421y2ovesq/gmmplot.png?raw=1">
+
 #### DBSCAN
+
 #### Hierarchical Based
 
 #### Evaluation of Clustering Methods
