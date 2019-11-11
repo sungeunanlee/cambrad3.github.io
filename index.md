@@ -10,7 +10,7 @@ NBA teams win or lose games based on the number of win shares their players crea
 
 ### Data
 #### Where did we get the data?
-(Cameron)
+Source: https://www.basketball-reference.com/
 <img src="https://www.dropbox.com/s/vm27c41agid1jbu/Data%20Image.PNG?raw=1">
 
 #### What are its characteristics?
