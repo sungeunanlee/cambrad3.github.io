@@ -33,7 +33,18 @@ Using LDA to create new features that reduced the dimensions of the rookie and c
 
 ### Unsupervised
 #### Approach Details
-Cameron and Sung
+Created a new variable, **rookie win shares classifier**. This variable had a value of 0 if the player’s rookie win shares were 1 standard deviation below the mean, 1 if the player’s rookie win shares were within a standard deviation of the mean, and 2 if the player’s rookie win shares were 1 standard deviation above the mean.
+
+For players who were not rookies in 2018, we created a similar metric for **normalized career win shares** (divided by number of years played in the NBA).
+
+Using the rookie win shares classifier as a label, we used **LDA** as a dimension reduction technique to find a **linear combination of the rookie features** that were **predictive of rookie win shares**.
+
+We also created a **LDA** model for **normalized career win shares**.
+
+The first component of the rookie LDA model and the first component of the career LDA model were used as a new set of features for clustering analysis. The **first components** were chosen because they are the features **most responsible in their models for maximizing win share class separability**.
+
+The following plot shows how the original rookie and career features are correlated with the values of the chosen LDA components.
+
 <img src="https://www.dropbox.com/s/7ck7af2mtrn9awr/LDA_correlations.png?raw=1">
 <img src="https://www.dropbox.com/s/wbfkwx7tncpufpy/nonrookieldaplot.png?raw=1">
 <img src="https://www.dropbox.com/s/bkwnih7gihuaikp/seasonedplayersldaplot.png?raw=1">
