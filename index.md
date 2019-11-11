@@ -1,5 +1,5 @@
 # Project Title: Predicting NBA Career Performance Based on Rookie Season
-## Sungeun An, Nazanin Anaraki, Cameron Bradley, Kevin Cho, Kalyan Murahari
+## Sungeun An, Nazanin Anaraki, Cameron Bradley, Kevin Cho, Kalyan Chakravarthi Murahari
 
 ### Introduction
 #### What are we trying to accomplish?
