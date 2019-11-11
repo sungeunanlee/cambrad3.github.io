@@ -14,7 +14,11 @@ Source: https://www.basketball-reference.com/
 <img src="https://www.dropbox.com/s/vm27c41agid1jbu/Data%20Image.PNG?raw=1">
 
 #### What are its characteristics?
-(Cameron)
+- All players who were rookies between 1980 through 2018 were included in the dataset.
+- Each row (2,217) corresponds to an individual player.
+- The features include 23 rookie metrics and 20 career metrics.
+- Features include information about player efficiency rating, true shooting percentage, 3 point attempt rate, free throw attempt rate, rebound percentage, block percentage, assist percentage, steal percentage, etc. 
+
 
 ### What is Our Approach?
 #### Unsupervised
