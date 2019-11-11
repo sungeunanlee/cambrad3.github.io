@@ -118,10 +118,10 @@ Sung or Nazanin or Kevin or Kalyan
 25.	**id**: the unique identifier of the player
 
 #### Distribution of Work
-Data Scrapping and Cleaning: Cameron Bradley
-Unsupervised Feature Engineering: Cameron Bradley
-Kmeans and GMM: Cameron Bradley
-GitHub Page Contributer: Cameron Bradley
+- Data Scrapping and Cleaning: Cameron Bradley
+- Unsupervised Feature Engineering: Cameron Bradley
+- Kmeans and GMM: Cameron Bradley
+- GitHub Page Contributer: Cameron Bradley
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
