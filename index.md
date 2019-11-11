@@ -43,6 +43,7 @@ Using LDA to create new features that reduced the dimensions of the rookie and c
 
 5) The first component of the rookie LDA model and the first component of the career LDA model were used as a new set of features for clustering analysis. The **first components** were chosen because they are the features **most responsible in their models for maximizing win share class separability**.
 
+#### LDA Features and Original Features Correlations
 The following plot shows how the original rookie and career features are correlated with the values of the chosen LDA components.
 
 <img src="https://www.dropbox.com/s/7ck7af2mtrn9awr/LDA_correlations.png?raw=1">
