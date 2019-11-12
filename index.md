@@ -75,9 +75,19 @@ Because we know seasoned players represent 6 unique classes, **we chose to use c
 The following sections show the results of each clustering method used. We then provide an evaluation of the 4 clustering methods.
 
 #### Kmeans
+
+For K-means we initialized centers 25 times and picked the clustering that minimized within cluster distances and maximized between cluster distances. The graph below depicts the 6 resulting clusters. **Hall of Fame players with amazing rookie seasons**, such as **Allen Iverson**, were clustered in the upper right portion of the graph, while **less accomplished players** such as **Vitaly Potapenko** appeared in the bottom left of the graph. The players listed in the center of their clusters represent the players closest to their cluster’s mean. 
+
 <img src="https://www.dropbox.com/s/pqkji8p20l35waz/kmeansplot.png?raw=1">
 
+#### Comparison of rookie players to seasoned players
+
+To compare rookie players from the 2018 season to players with 10+ years in the league, we used the seasoned player’s rookie LDA model to get component values for 2018 rookie players in 2018. We then plotted rookie players on a line, on the y axis, at this value.
+
+In the plot above, for example, **Luka Dončić**, has a LDA component value from the seasoned rookie LDA model of 4.73, highest among 2018 rookies. If Luka plays for 10+ years in the league, his career metric would be plotted along the gray line. Although, it is possible for him to end up in the blue, black, or orange cluster (unlikely because no player with his rookie performance has before been included in these clusters), **Luka will most likely be included in the pink cluster (where many greats of the game are located)**.
+
 #### GMM
+
 <img src="https://www.dropbox.com/s/xgdr3421y2ovesq/gmmplot.png?raw=1">
 
 #### DBSCAN
