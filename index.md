@@ -32,7 +32,7 @@ The main purpose of supervised learning in our project is to predict the career 
 Using LDA to create new features that reduced the dimensions of the rookie and career features into single metrics, and then using these metrics to predict career performance is novel in our approach.
 
 ### Unsupervised
-#### Creating New Features
+#### Creating new features
 1) Created a new variable, **rookie win shares classifier**. This variable had a value of 0 if the player’s rookie win shares were 1 standard deviation below the mean, 1 if the player’s rookie win shares were within a standard deviation of the mean, and 2 if the player’s rookie win shares were 1 standard deviation above the mean.
 
 2) For players who were not rookies in 2018, we created a similar metric for **normalized career win shares** (divided by number of years played in the NBA).
@@ -43,12 +43,12 @@ Using LDA to create new features that reduced the dimensions of the rookie and c
 
 5) The first component of the rookie LDA model and the first component of the career LDA model were used as a new set of features for clustering analysis. The **first components** were chosen because they are the features **most responsible in their models for maximizing win share class separability**.
 
-#### LDA Features and Original Features Correlations
+#### LDA features and original features correlations
 The following plot shows how the original rookie and career features are correlated with the values of the chosen LDA components.
 
 <img src="https://www.dropbox.com/s/7ck7af2mtrn9awr/LDA_correlations.png?raw=1">
 
-#### 9 Classes
+#### 9 classes
 
 With the 2 new components derived from the 2 LDA models, we plotted all NBA players since 1980 who were not rookies in 2018, with their respective labels.
 
@@ -62,7 +62,7 @@ With the 2 new components derived from the 2 LDA models, we plotted all NBA play
 
 This plot shows that the two LDA are **positively correlated with each other**, and they are **positively correlated with rookie/career win shares**.
 
-#### Seasoned Players: 6 Classes
+#### Seasoned players: 6 classes
 Rather than compare 2018 rookie players to other players who have had a few years in the league, it is more interesting to compare rookies to players who have had long careers in the league; there is more information about these players.  In this spirit, we reran the LDA analysis for players with 10+ years in the league. The following plot shows the results of this analysis.
 
 <img src="https://www.dropbox.com/s/bkwnih7gihuaikp/seasonedplayersldaplot.png?raw=1">
@@ -83,15 +83,15 @@ The following sections show the results of each clustering method used. We then 
 #### DBSCAN
 Sung
 
-#### Hierarchical Based
+#### Hierarchical
 Sung
 
-#### Evaluation of Clustering Methods
+#### Evaluation of clustering methods
 Sung
 
 
 ### Supervised
-#### Approach Details
+#### Approach details
 Nazanin, Kevin, Kalyan
 
 kalyan's stuff:
@@ -116,7 +116,7 @@ performing X model on the selected features resulted in...
 
 results of regression ridge, lasso->
 
-#### Evaluation of Approach
+#### Evaluation of approach
 Nazanin, Kevin, Kalyan
 
 The RMSE, R-squared and Mean Absolute Error values were used to compare the performance of different models.
@@ -126,14 +126,14 @@ After analysis and comparison between different models, we picked the best model
 
 ->10 players comparison table will go here.
 
-#### Results and Insights
+#### Results and insights
 Nazanin, Kevin, Kalyan
 
 ### Conclusion
 Sung or Nazanin or Kevin or Kalyan
 
 ### Appendix
-#### Glossary of Features
+#### Glossary of features
 1.	**year**: the year the player started their rookie season. (rookie)
 2.	**age**: age of the player on February 1st of their rookie season. (rookie)
 3.	**team**: the player’s team their rookie season. (rookie)
@@ -160,8 +160,8 @@ Sung or Nazanin or Kevin or Kalyan
 24.	**duration**: how many years the player paid/has played in the league.(career)
 25.	**id**: the unique identifier of the player
 
-#### Distribution of Work
-- Data Scrapping and Cleaning: Cameron Bradley
-- Unsupervised Feature Engineering: Cameron Bradley
+#### Distribution of work
+- Data scrapping and cleaning: Cameron Bradley
+- Unsupervised feature engineering: Cameron Bradley
 - Kmeans and GMM: Cameron Bradley
-- GitHub Page Contributer: Cameron Bradley
+- GitHub page contributer: Cameron Bradley
