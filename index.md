@@ -158,6 +158,9 @@ After analysis and comparison between different models, we picked the best model
 
 ->10 players comparison table will go here.
 <img src= "https://www.dropbox.com/s/nnsljl3f69p0koi/Screen%20Shot%202019-11-11%20at%2010.14.10%20PM.png?raw=1">
+
+Abvoe is an image of top rookies from 2017-2018 season and 2018-2019 season, including Atlanta Hawk's Trae Young. These rookies' career Winshares were predicted using linear regression (should I say lin reg?). Then their prediction was matched with a career winshare of players who have played 10 or more years in the NBA. If there were multiple matches, I picked player in roughly the same position (i.e. guard to guard). For Ben Simmons, I put both Kevin Love and Amare Stoudemire as I believed it was interesting to see two "big mans" that Ben Simmons can potentially become.
+
 #### Results and insights
 
  <img src="https://www.dropbox.com/s/umdins9l5qsixlj/Screen%20Shot%202019-11-11%20at%2010.13.20%20PM.png?raw=1">
