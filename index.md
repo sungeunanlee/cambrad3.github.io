@@ -111,6 +111,15 @@ Sung
 ### Supervised
 #### Approach details
 Nazanin, Kevin, Kalyan
+•	What does the distribution of rookie winshares look like?
+Before further discussing the project, we used basic EDA to see what our data can tell us. First, I took a quick look at the distribution of rookie win shares:
+<img src="https://www.dropbox.com/s/t9rrhl1en6c98aw/rookie.PNG?raw=1">
+•	What does the distribution of Career winshares look like?
+Again, we used basic EDA to see what our data can tell us:
+<img src="https://www.dropbox.com/s/i2y8u7ndwolg919/carrer.PNG?raw=1">
+We can see that the distribution of win shares is skewed to the right. This makes sense since The very good NBA players have very high win shares. For example, the win shares leader of our data set is Karl Malone, with 234 win shares. So, it’s an elite status to have a high win shares.
+Furthermore, by comparing the 2 charts, we realize that the range of career winshares is lot bigger than the rooki winshares. This makes sense since the career winshare values are created by adding the winshares of a player during their career. This observation resulted in our approach to take into consideration the “duration” of career, while calculating winshares. 
+
 
 kalyan's stuff:
 The correlation matrix is shown below. By analyzing it, we picked the features that correlated the most to the winshares.
