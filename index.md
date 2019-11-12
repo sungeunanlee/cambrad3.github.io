@@ -88,7 +88,7 @@ In the plot above, for example, **Luka Dončić**, has a LDA component value fro
 
 This information is useful to the Dallas Mavericks, Luka’s current team, because it helps them know how to value their player.
 
-#### GMM
+#### Gaussian Mixture Model
 
 <img src="https://www.dropbox.com/s/xgdr3421y2ovesq/gmmplot.png?raw=1">
 
