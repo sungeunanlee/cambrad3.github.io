@@ -11,7 +11,7 @@ NBA teams win or lose games based on the number of win shares their players crea
 ### Data
 #### Where did we get the data?
 Source: https://www.basketball-reference.com/
-<img src="https://www.dropbox.com/s/vm27c41agid1jbu/Data%20Image.PNG?raw=1">
+<img src="https://www.dropbox.com/s/ytuiv8hugei2f59/fronter.PNG?raw=1">
 
 #### What are its characteristics?
 - All players who were rookies between 1980 through 2018 were included in the dataset.
@@ -111,6 +111,7 @@ Sung
 ### Supervised
 #### Approach details
 Nazanin, Kevin, Kalyan
+
 •	What does the distribution of rookie winshares look like?
 Before further discussing the project, we used basic EDA to see what our data can tell us. First, I took a quick look at the distribution of rookie win shares:
 <img src="https://www.dropbox.com/s/t9rrhl1en6c98aw/rookie.PNG?raw=1">
