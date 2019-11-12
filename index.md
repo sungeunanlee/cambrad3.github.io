@@ -90,7 +90,13 @@ This information is useful to the Dallas Mavericks, Luka’s current team, becau
 
 #### Gaussian Mixture Model
 
+GMM is a soft classifier, where every point has a probability of being included in a cluster. Points were assigned to clusters based on its maximum probability across all its probabilities of belonging to a certain cluster.
+
 <img src="https://www.dropbox.com/s/xgdr3421y2ovesq/gmmplot.png?raw=1">
+
+The clustering results appear similar to Kmeans, however, some of the players located closest to their cluster means are on the periphery of the soft assignments.
+
+This plot shows that Trae Young (who ironically the Atlanta Hawks traded for by trading away Luka) will most likely be in the green cluster with Brook Lopez. However, there is a chance he could also end up in the black or red clusters.
 
 #### DBSCAN
 Sung
