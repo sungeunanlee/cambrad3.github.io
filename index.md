@@ -142,6 +142,8 @@ The RMSE, R-squared and Mean Absolute Error values were used to compare the perf
 
 After analysis and comparison between different models, we picked the best model for further analysis on players. In this approach We picked 10 players and predicted their corresponding career winshares, using their rookie features for the selected model. Furthermore, we used these predicted winshares, and predicted which player in our current dataset they will most likely have the closest winshares to, in their future career.-> I need to revise this sentence.
 
+<img src='https://www.dropbox.com/s/1gwmtls6d14v8qq/Screen%20Shot%202019-11-11%20at%2010.49.46%20PM.png?raw=1'>
+
 ->10 players comparison table will go here.
 <img src= "https://www.dropbox.com/s/nnsljl3f69p0koi/Screen%20Shot%202019-11-11%20at%2010.14.10%20PM.png?raw=1">
 #### Results and insights
