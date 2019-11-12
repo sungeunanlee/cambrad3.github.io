@@ -115,7 +115,7 @@ Nazanin, Kevin, Kalyan
 kalyan's stuff:
 The correlation matrix is shown below. By analyzing it, we picked the features that correlated the most to the winshares.
 ->correlation matrix goes here
-<img src="https://www.dropbox.com/s/reiwgr5vha7i6af/Screen%20Shot%202019-11-11%20at%209.02.13%20PM.png?dl=0">
+<img src="https://www.dropbox.com/s/reiwgr5vha7i6af/Screen%20Shot%202019-11-11%20at%209.02.13%20PM.png?raw=1">
 The selected features were used by different models. we performed linear regression on the selected features.
 ->linear regression
 
@@ -143,12 +143,12 @@ The RMSE, R-squared and Mean Absolute Error values were used to compare the perf
 After analysis and comparison between different models, we picked the best model for further analysis on players. In this approach We picked 10 players and predicted their corresponding career winshares, using their rookie features for the selected model. Furthermore, we used these predicted winshares, and predicted which player in our current dataset they will most likely have the closest winshares to, in their future career.-> I need to revise this sentence.
 
 ->10 players comparison table will go here.
-<img src= "https://www.dropbox.com/s/nnsljl3f69p0koi/Screen%20Shot%202019-11-11%20at%2010.14.10%20PM.png?dl=0">
+<img src= "https://www.dropbox.com/s/nnsljl3f69p0koi/Screen%20Shot%202019-11-11%20at%2010.14.10%20PM.png?raw=1">
 #### Results and insights
 
- <img src="https://www.dropbox.com/s/umdins9l5qsixlj/Screen%20Shot%202019-11-11%20at%2010.13.20%20PM.png?dl=0">
+ <img src="https://www.dropbox.com/s/umdins9l5qsixlj/Screen%20Shot%202019-11-11%20at%2010.13.20%20PM.png?raw=1">
  
- <img src="https://www.dropbox.com/s/n4x3tkun531vaph/Screen%20Shot%202019-11-11%20at%2010.36.04%20PM.png?dl=0">
+ <img src="https://www.dropbox.com/s/n4x3tkun531vaph/Screen%20Shot%202019-11-11%20at%2010.36.04%20PM.png?raw=1">
 Nazanin, Kevin, Kalyan
 
 ### Conclusion
