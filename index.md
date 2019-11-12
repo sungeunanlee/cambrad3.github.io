@@ -86,6 +86,8 @@ To compare rookie players from the 2018 season to players with 10+ years in the 
 
 In the plot above, for example, **Luka Dončić**, has a LDA component value from the seasoned rookie LDA model of 4.73, highest among 2018 rookies. If Luka plays for 10+ years in the league, his career metric would be plotted along the gray line. Although, it is possible for him to end up in the blue, black, or orange cluster (unlikely because no player with his rookie performance has before been included in these clusters), **Luka will most likely be included in the pink cluster (where many greats of the game are located)**.
 
+This information is useful to the Dallas Mavericks, Luka’s current team, because it helps them know how to value their player.
+
 #### GMM
 
 <img src="https://www.dropbox.com/s/xgdr3421y2ovesq/gmmplot.png?raw=1">
