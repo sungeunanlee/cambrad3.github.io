@@ -99,13 +99,13 @@ The clustering results appear similar to Kmeans, however, some of the players lo
 This plot shows that Trae Young (who ironically the Atlanta Hawks traded for by trading away Luka) will most likely be in the green cluster with Brook Lopez. However, there is a chance he could also end up in the black or red clusters.
 
 #### DBSCAN
-Sung
+<img src="https://www.dropbox.com/s/7ck7af2mtrn9awr/LDA_correlations.png?raw=1">
 
 #### Hierarchical
-Sung
+<img src="https://www.dropbox.com/s/7ck7af2mtrn9awr/LDA_correlations.png?raw=1">
+<img src="https://www.dropbox.com/s/7ck7af2mtrn9awr/LDA_correlations.png?raw=1">
 
 #### Evaluation of clustering methods
-Sung
 
 
 ### Supervised
